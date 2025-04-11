@@ -1,1 +1,1 @@
-console.log("Hello restLib");
+console.log("Hello restLib v2");
